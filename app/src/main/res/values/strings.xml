@@ -1,0 +1,34 @@
+<resources>
+
+    <string name="app_name">进制转换器</string>
+    <string name="bin">Bin</string>
+    <string name="oct">Oct</string>
+    <string name="dec">Dec</string>
+    <string name="hex">Hex</string>
+    <string name="about">关于此软件</string>
+    <string name="in">请输入</string>
+    <string name="hint_bin">请在此输入二进制数</string>
+    <string name="hint_oct">请在此输入八进制数</string>
+    <string name="hint_dec">请在此输入十进制数</string>
+    <string name="hint_hex">请在此输入十六进制数</string>
+    <string name="go_back">返回</string>
+    <string name="zero">0</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="d">D</string>
+    <string name="e">E</string>
+    <string name="f">F</string>
+    <string name="del">CE</string>
+    <string name="back">←</string>
+    <string name="text_change">改变文字方向</string>
+</resources>
